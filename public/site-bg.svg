@@ -1,34 +1,14 @@
-<svg width="1435" height="877" viewBox="0 0 1435 877" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_157_2)">
-<rect width="1435" height="877" fill="#1A1333"/>
-<g filter="url(#filter0_f_157_2)">
-<circle cx="172" cy="153" r="178" fill="#352467"/>
-</g>
-<g filter="url(#filter1_f_157_2)">
-<circle cx="1299" cy="142" r="178" fill="#352467"/>
-</g>
-<g filter="url(#filter2_f_157_2)">
-<circle cx="1082" cy="460" r="217" fill="#352467"/>
-</g>
-</g>
-<defs>
-<filter id="filter0_f_157_2" x="-356" y="-375" width="1056" height="1056" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="175" result="effect1_foregroundBlur_157_2"/>
-</filter>
-<filter id="filter1_f_157_2" x="771" y="-386" width="1056" height="1056" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="175" result="effect1_foregroundBlur_157_2"/>
-</filter>
-<filter id="filter2_f_157_2" x="515" y="-107" width="1134" height="1134" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="175" result="effect1_foregroundBlur_157_2"/>
-</filter>
-<clipPath id="clip0_157_2">
-<rect width="1435" height="877" fill="white"/>
-</clipPath>
-</defs>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" viewBox="0 0 1000 611" enable-background="new 0 0 1000 611" xml:space="preserve">
+<path fill="#35005A" opacity="1.000000" stroke="none" 
+	d="
+M1000.458862,612.000000 
+	C668.426392,612.000000 336.934937,611.991577 5.443546,612.101990 
+	C1.563628,612.103271 0.910536,611.091675 0.912333,607.443665 
+	C1.011140,406.782257 1.013512,206.120773 0.899108,5.459375 
+	C0.896913,1.609749 1.890692,0.913399 5.540473,0.914418 
+	C335.865234,1.006651 666.190063,1.007717 996.514832,0.904220 
+	C1000.300232,0.903034 1001.092773,1.801505 1001.090881,5.514627 
+	C1000.988342,207.676392 1001.000000,409.838196 1000.458862,612.000000 
+z"/>
 </svg>
