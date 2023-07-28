@@ -42,7 +42,7 @@ const Home = () => {
             change and create transformative experiences.
           </motion.p>
           {/** button */}
-          <div className="flex justify-center xl:hidden relative">
+          <div className="flex justify-center xl:hidden relative z-10">
             <ProjectsBtn />
           </div>
           <motion.div
@@ -69,7 +69,7 @@ const Home = () => {
           animate="show"
           exit="hidden"
           transition={{ duration: 1, ease: "easeInOut" }}
-          className="w-full h-full max-w-[537px] max-h-[478px] absolute -bottom-32 lg:bottom-0 lg:right-[6%] mix-blend-hard-light"
+          className="w-full h-full max-w-[537px] max-h-[513px] absolute -bottom-32 lg:bottom-0 lg:right-[6%] mix-blend-hard-light"
         >
           <Avatar />
         </motion.div>
