@@ -31,7 +31,7 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Deliver high-quality solutions that align with each client's
+              Deliver high-quality solutions that align with each client&apos;s
               unique needs and objectives while ensuring their online presence
               is effective and efficient.
             </motion.p>

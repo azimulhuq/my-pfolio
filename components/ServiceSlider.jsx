@@ -1,6 +1,9 @@
 // swiper react components
 import { Swiper, SwiperSlide } from "swiper/react";
 
+// next link
+import Link from "next/link";
+
 // swiper styles
 import "swiper/css";
 import "swiper/css/free-mode";
@@ -102,7 +105,9 @@ const ServiceSlider = () => {
               </div>
               {/** arrow */}
               <div className="text-3xl">
-                <RxArrowTopRight className="group-hover:rotate-45 group-hover:text-accent transition-all duration-300" />
+                <Link href={"/contact"}>
+                  <RxArrowTopRight className="group-hover:rotate-45 group-hover:text-accent transition-all duration-300" />
+                </Link>
               </div>
             </div>
           </SwiperSlide>
